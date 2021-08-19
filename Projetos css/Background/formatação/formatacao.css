@@ -1,0 +1,12 @@
+p{
+	font-size: 25px;
+}
+
+body{
+		background-color: #233DB3;
+		background-image: url('Imagem/yoshi.png');
+		background-repeat: repeat-x;
+		background-attachment: fixed; 
+		background-position: center bottom; 
+		/* background: #233DB3  url('Imagem/yoshi.png')  repeat-x  fixed  bottom;*/ 
+	}

@@ -1,0 +1,158 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}/* Limpar Formatação geral*/
+
+
+/* Inicio FORMATAÇÃO GERAL*/
+
+body{
+	font-size: 1em;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	background: #e6e6e6;
+}
+
+a{
+	text-decoration: none;
+}
+
+img{
+	border-top: 1px solid #E6E6E6;
+	padding-top: 10px;
+	margin-top: 10px;
+	width: 620px;
+	height: 405px;
+}
+
+
+a:link, a:visited{
+	color: #DBA901;
+}
+
+a:hover{
+	text-decoration: underline;
+}
+
+p{
+	width: 620px;
+}
+
+h3{
+	background-color: #848484;
+	width: 190px;
+	padding: 5px;
+}
+
+/* Fim FORMATAÇÃO GERAL*/
+
+
+/* Inicio ÁREA SUPERIOR DO MENU!!!!!*/
+
+#cima{
+	padding: 15px;
+	text-align: center;
+	background: #f7b600; 
+}
+
+#logo{
+	color: #585858;
+	padding: 10px;
+}
+
+#branco{
+	color: white;
+}
+
+#menu{
+	padding: 10px;
+}
+
+#menu a:link, #menu a:visited{
+	color: white;
+	margin: 10px;
+	padding: 10px;
+} 
+
+#menu a:hover{
+	color:  #f7b600;
+	background-color: white;
+	text-decoration: none;
+}
+
+/* Fim ÁREA SUPERIOR DO MENU!!!!!*/
+
+
+/* Inicio ÁREA PRINCIPAL!!!!!*/
+
+#tudo{
+	width: 920px;
+	padding-top: 10px;
+	margin: 0px auto;
+}
+
+#postagens-principal{
+	background-color: #fff;
+	width: 660px;
+	padding-left: 15px;
+	float: left;
+	margin-bottom: 10px;	
+}
+
+#postagens-principal{
+	background-color: #fff;
+	width: 650px;
+	padding-left: 20px;
+	float: left;
+	padding-bottom: 15px;
+	margin-bottom: 10px;
+
+}
+
+.titulo-postagem{
+	color: #f7b600;
+	padding-top: 15px;
+
+}	
+
+.data-postagem{
+	font-size: 13px;
+	display: block;
+}
+
+#direitos{
+	clear: both;
+	background: #F2F2F2;
+	text-align: center;
+	padding: 10px;
+	margin-bottom: 15px;
+}
+
+/* Fim ÁREA PRINCIPAL!!!!!*/
+
+
+/* Inicio ÁREA LATERAL!!!!!*/
+
+.postagens-laterais{
+	background-color: #fff;
+	width: 200px;
+	float: right;
+	padding: 10px 10px;
+	margin-bottom: 15px;
+}
+
+.texto-lateral{
+	font-size: 14px;
+	width: 180px;
+}
+
+.conteudo-geral-lateral{
+	padding-bottom: 4px;
+	border-bottom: 1px dotted gray; 
+	margin-bottom: 8px;
+}
+
+.conteudo-geral-lateral2{
+	padding-bottom: 4px; 
+}
+
+/* Fim ÁREA LATERAL!!!!!*/

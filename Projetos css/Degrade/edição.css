@@ -1,0 +1,145 @@
+h1{
+	text-align: center;
+}
+
+p{
+	margin-top: 100px;
+}
+
+a{
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a:link{
+	color: #BDBDBD;
+}	
+
+a:visited{
+	color: #0B3B17;
+}
+
+a:hover{
+	background-color: #04B45F;
+}
+
+a:active{
+	background-color: yellow;
+}
+
+body{
+	background-color: #F5ECCE;
+}
+
+#v{
+	color: red;
+}
+
+#a{
+	color: blue;
+}
+
+#embaixo{
+	position: absolute;
+	bottom: 10px;
+	left: 650px;
+}
+/* VERMELHO */
+#umv{
+	width: 500px;
+	height: 100px;
+	position: relative;
+	left: 500px;
+	top: 20px;
+	background-color: #190707;
+	z-index: 5;
+}
+
+#doisv{
+	width: 500px;
+	height: 100px;
+	position: relative;
+	left: 500px;
+	top: 5px;
+	background-color: #3B0B0B;
+	z-index: 4;
+}
+#trêsv{
+	width: 500px;
+	height: 100px;
+	position: relative;
+	left: 500px;
+	top: 5px;
+	background-color: #B40404;
+	z-index: 3;
+}
+#quatrov{
+	width: 500px;
+	height: 100px;
+	position: relative;
+	left: 500px;
+	top: 5px;
+	background-color: #FE2E2E;
+	z-index: 2;
+}
+#cincov{
+	width: 500px;
+	height: 100px;
+	position: relative;
+	left: 500px;
+	top: 5px;
+	background-color: #F5A9A9;
+	z-index: 1;
+}
+/* VERMELHO */
+
+
+
+/* AZUL */
+#uma{
+	width: 500px;
+	height: 100px;
+	position: relative;
+	left: 500px;
+	top: 20px;
+	background-color: #070719;
+	z-index: 5;
+}
+
+#doisa{
+	width: 500px;
+	height: 100px;
+	position: relative;
+	left: 500px;
+	top: 5px;
+	background-color: #0B0B3B;
+	z-index: 4;
+}
+#trêsa{
+	width: 500px;
+	height: 100px;
+	position: relative;
+	left: 500px;
+	top: 5px;
+	background-color: #0404B4;
+	z-index: 3;
+}
+#quatroa{
+	width: 500px;
+	height: 100px;
+	position: relative;
+	left: 500px;
+	top: 5px;
+	background-color: #2E2EFE;
+	z-index: 2;
+}
+#cincoa{
+	width: 500px;
+	height: 100px;
+	position: relative;
+	left: 500px;
+	top: 5px;
+	background-color: #A9A9F5;
+	z-index: 1;
+}
+/* AZUL */

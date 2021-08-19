@@ -1,0 +1,104 @@
+/* Inicio Configurações Gerais*/
+*{
+	padding: 0px;
+	margin: 0px;
+}
+
+body{
+	background: #F8ECE0;
+}
+
+h1{
+	font-size: 60px;
+	color: #DA055E;
+}
+
+ul{
+	list-style-type: none;
+	width: 300px;
+	margin: 20px 42em;
+	font-family: 'Trebuchet MS', sans-serif;
+	float: left;
+	background:  url(fundo-horizontal.png) repeat-x;
+}
+
+li{
+	float: left;
+	margin-left: 20px;
+	padding-left: 10px;
+	line-height: 40px;
+	background: url(divisor.png) no-repeat;
+}
+
+a{
+	text-decoration: none;
+	color: 	#696969;
+	font-size: 17px;
+	padding: 10px;
+}
+
+a:hover{
+	background: #00FFFF;
+	color: orange;	
+}
+
+a:active{
+	background: #4682B4;
+}
+
+form{
+	font-size: 17px;
+	padding: 5px 7px;
+}
+
+p{
+	padding: 20px;
+}
+/* FIM Configurações Gerais*/
+
+
+/* INICIO BARRA SUPERIO */
+
+#barra-superior{
+	background: #FA88B7;
+	width: 96em;
+	height: 200px;
+	text-align: center;
+	font-family: Brush Script MT, cursive;
+}
+
+/* FIM BARRA SUPERIO */
+
+
+
+/* INICIO MENU DE NAVEGAÇÃO HORIZONTALA*/
+
+.primeiro{
+	background: none;
+	margin-left: 13px;
+}
+
+#home .home,  #agradecimento .agradecimento{
+	background: #48D1CC;
+	color: orange;	
+}
+
+/* FIM MENU DE NAVEGAÇÃO HORIZONTALA*/
+
+
+
+/*INICIO CORPO DO SITE*/
+
+#corpo{
+	background: #fff;
+	width: 300px;
+	margin: 10px auto;
+}
+
+#corpo h2{
+	text-align: center;
+}
+
+/*FIM CORPO DO SITE*/
+
+

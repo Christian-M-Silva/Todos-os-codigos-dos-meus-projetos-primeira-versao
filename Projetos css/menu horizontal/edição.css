@@ -1,0 +1,41 @@
+
+
+ul{
+	padding: 0px;
+	
+	list-style-type: none;
+	float: left;
+	position: relative;
+	left: 200px;
+	float: left;
+	background: url(imagens/fundo-horizontal.png);
+}
+
+li{
+	float: left;
+	background: url(imagens/divisor.png);
+	background-repeat: no-repeat;
+}
+
+a{	
+	margin: 10px;
+	text-decoration: none;
+	color: #fff;
+	position: relative;
+	padding: 10px;
+	line-height: 40px;
+	
+}
+
+a:hover{
+	background: #fff;
+	color: #00BFFF;
+}
+
+#s .lateral .v{
+	color: red;
+}
+
+.primeiro{
+	background: none;
+}

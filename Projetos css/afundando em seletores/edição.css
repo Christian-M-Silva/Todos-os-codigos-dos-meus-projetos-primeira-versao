@@ -1,0 +1,62 @@
+/* Inicio Limpeza geral*/
+
+*{
+	color: red !important;
+}/*Seletor universal*/
+
+*{
+	color: #fff;
+}
+
+
+
+/* Fim Limpeza geral*/
+
+
+
+/* Inicio Formatação geral*/
+
+h1{
+	text-align: center;
+}/*Seletores de Texto*/
+
+
+/* Fim Formatação geral*/
+
+
+
+/* Inicio Estrutura*/
+
+#cinza{
+	background-color: gray;
+	width: 200px;
+	height: 200px;
+}/*Seletores de id*/
+
+.verde{
+	color: green;
+}/*Seletores de class normal*/
+
+p.verde{
+	color: #0A2A0A;
+}/*Seletores de class com preferencia*/
+
+div > p{
+	font-weight: bold;
+}/*Seletores de filho*/
+
+div p{
+	background: #fff;
+}/*Seletores de Descedente*/
+
+div + h1{
+	font-size: 14;
+	color: pink;
+	text-decoration: line-through;
+	text-align: left;
+}/*Seletores de Irmão adjacente*/
+
+h1 ~ p{
+	color: yellow;
+}/*Seletores de Irmão geral*/
+/* Fim Estrutura*/

@@ -1,0 +1,20 @@
+body{
+	font-family: arial, helvetica, serif;
+}
+
+h1{
+	display: inline;
+}
+
+p{
+	display: inline;
+}
+
+span{
+	font-weight: bold;
+	display: block;
+}
+
+#sqn{
+	text-decoration: line-through;
+}

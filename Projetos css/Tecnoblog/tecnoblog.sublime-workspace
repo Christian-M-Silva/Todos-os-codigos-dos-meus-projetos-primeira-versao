@@ -1,0 +1,551 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"bord",
+				"border-top\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"b",
+				"bottom\tproperty"
+			],
+			[
+				"pa",
+				"padding-top\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"padi",
+				"padding-top\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"h",
+				"h1\tTag"
+			],
+			[
+				"bo",
+				"bottom\tproperty"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"es",
+				"espaço"
+			],
+			[
+				"alin",
+				"text-align\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"ima",
+				"imagem"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"d",
+				"distancia"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"backg",
+				"background-image\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"bacgroun",
+				"background\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"u",
+				"url()\tbackground-image"
+			],
+			[
+				"re",
+				"repeat-x\tbackground-repeat"
+			],
+			[
+				"background-a",
+				"background-repeat\tproperty"
+			],
+			[
+				"tex",
+				"texto3"
+			],
+			[
+				"s",
+				"span\tTag"
+			],
+			[
+				"fu",
+				"fundos"
+			],
+			[
+				"f",
+				"fundo"
+			],
+			[
+				"de",
+				"destaque"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"n",
+				"notificações"
+			],
+			[
+				"j",
+				"jpeg"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"fon-st",
+				"font-style\tproperty"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"t",
+				"table\tTag"
+			],
+			[
+				"font-",
+				"font-weight\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"o",
+				"ol\tTag"
+			],
+			[
+				"fo",
+				"form\tTag"
+			],
+			[
+				"ci",
+				"cinza"
+			],
+			[
+				"do",
+				"double"
+			],
+			[
+				"border-c",
+				"border-color\tproperty"
+			],
+			[
+				"borde",
+				"border-style\tproperty"
+			],
+			[
+				"g",
+				"groove"
+			],
+			[
+				"sl",
+				"Solid"
+			],
+			[
+				"lo",
+				"Login"
+			],
+			[
+				"H",
+				"H2\tTag"
+			],
+			[
+				"a",
+				"align\tAttr"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"Re",
+				"região"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"e",
+				"em\tTag"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ht",
+				"Set Syntax: HTML"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Tecnoblog/edição.css",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Tecnoblog/tecnoblog.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Tecnoblog/edição.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Degrade/azul.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Degrade/edição.css",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Degrade/index.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Degrade/vermelho.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Degrade/Degrade.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/conversa/edição.css",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/conversa/conversa.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/inline and block/edição.css",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/inline and block/inline-block.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Noticias/edição.css",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Noticias/noticias.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/caixas flutuantes/edição.css",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/caixas flutuantes/caixas-flutuantes.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/flutuante/flutuante.css",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/flutuante/flutuante.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/caixas/edição-caixas.css",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/caixas/caixas.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Anna Bella/edição.css",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Anna Bella/contato.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Anna Bella/campanha.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Anna Bella/biografia.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Anna Bella/index.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Background/formatacao.css",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Background/fundo.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/fontes.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/formatacoes.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/tamanhos.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/borda.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Div e span/div-span.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/div-span.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/classe-id.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/seletores.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/CSS3/Projetos/Helloworld.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/Unes 2/contato.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/Unes 2/quem somos.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/Unes 2/index.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/Desafio rapido 1.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/cadastro.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/melhores personagens da cultura geek/personagens.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/Pessoas.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/Video games/galeria de fotos.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/Video games/index.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/Fotos geek/imagens geek.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/imagens geek.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/imagens geek",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/desafio rapido1.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/Lista.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/redação.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/cabeçalhos.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/Hello world.html",
+		"/C/Users/valdi/Downloads/cms documentos/Cursos/Desenvolvimento Web/HTML/Projetos/ADEFINIR.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/tamanho de texto.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/fontes.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/cor.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Deivid/HTML/Desenhos.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Deivid/HTML/24-arquivos-aula-finalizando-#projeto1-unes.zip",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Deivid/HTML/14-arquivos-aula-listas-nao-ordenadas.zip",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/bordas.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/site da liga/login.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/site da liga/quem somos.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/site da liga/index.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/Hello world.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/Internal style sheet.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/classes e ids.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/teste.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/CSS/Hello word.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Unes/index.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Unes/quem somos.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Unes/contatos.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/super hero.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/teste.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/CLÃ.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Requisitos para o clã/boas-vindas.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Requisitos para o clã/formulario.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Requisitos para o clã/login.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Requisitos para o clã/pagina home, clique em mim.html",
+		"/C/Users/valdi/Downloads/sala 3001  trabalhos/sala 3001  trabalhos/21-arquivos-aula-mais-componentes-formulario.zip",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Formulario para amor/index.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Formulario para amor/Agradecimento.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Formulario para amor/Formulario.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Formulario para amor/index.com",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Jogadores/jogadores.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/jogadores.html",
+		"/C/Users/valdi/Downloads/IMG_20201005_093721.jpg",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Navegação por link/Contatos.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Navegação por link/Quem somos.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Navegação por link/texto teste.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Navegação por link/index.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Navegação por link/texto.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Navegação por link/Quem somos",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Geladeira/agua.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Geladeira/index.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Geladeira/Geladeira.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Paisagens/Belas paisagens.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Paisagens/Belas Paisagens",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Pupila/Pupila.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Desafio rapido 1.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Desafio rapido 1",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Informações.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/informações.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Vermelinha.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Marcadores.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/curriculo.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/My girlfriend.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Deivid/HTML/teste.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Christian/HTML/Hello word.html",
+		"/C/Users/valdi/Downloads/cms documentos/HTML5/Programas HTML5/helloword.html",
+		"/C/Users/valdi/Downloads/cms documentos/Programação da web/Teste/Vai corinthians!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "tecnoblog.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 209.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,153 @@
+body{
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	margin: 0px;
+	background-color: #DCDCDC;
+}/*edição de fonte, distanciamento extrno e fundo do body*/
+
+h1{
+	text-align: center;
+	margin-top: 0px;
+	position: relative;
+	top: 30px;
+}/*edição de alinhamento, distanciamento externo em cima e posição em cima tema h1*/
+
+a{
+	text-decoration: none;
+	padding: 4px;
+	margin: 10px;
+}/*edição de underline, distanciamento interno e externo dos links*/
+
+a:link, a:visited{
+	color: #9AFE2E;
+}/*edição de link visitado e não visitado*/
+
+a:hover{
+	background-color: white;
+	color: yellow;
+}/*edição de link ao mouse passar por cima*/
+
+img{
+	
+	padding-top: 10px;
+	margin-left: 20px;
+	border-top: 0.2px solid gray;
+} /*edição imagem*/
+
+h3{
+	position: relative;
+	left: 6px;
+	bottom: 10px;
+	color: #F2F2F2;
+}
+
+#posição{
+	text-align: center;
+	position: relative;
+	top: 30px;
+}/*edição do alinhamento e posição com espaço da parte de cima das divs que tem os links do menu*/
+
+#tec{
+	color: gray;
+	font-size: 40px;
+}/*edição da cor e tamanho das letras da palavra tec*/
+
+#blog{
+	color: white;
+	font-size: 40px;
+}/*edição da cor e tamanho das letras da palavra blog*/
+
+#amarelo{
+	background-color: #E6C314;
+	height: 150px;
+}/*edição do fundo e tamanho da div do menu*/
+
+#direitos{
+	text-align: center;
+	background-color: #6E6E6E;
+	width: 1000px;
+	height: 50px;
+	position: relative;
+	left: 250px;
+	bottom: 10px;
+	padding: 10px;
+}/*edição da caixa de direitos reservados*/
+
+#espaço{
+	border-top: 1px solid gray;
+	margin-top: 10px;
+}/*edição do segundo paragrafo da caixas flutuantes*/
+
+.branco{
+	background-color: white;
+	width: 700px;
+	height: 630px;
+	margin-bottom: 30px;
+	position: relative;
+	left: 250px;
+	top: 5px;
+}/*edição das caixas do post principal*/
+
+.flutuar{
+	float: right;
+	background-color: white;
+	width: 250px;
+	height: 200px;
+	position: absolute;
+	top: 175px;
+	right: 270px;	
+}/*edição caixa flutuante primeiro*/
+
+.flutuar2{
+	float: right;
+	background-color: white;
+	width: 250px;
+	height: 200px;
+	position: absolute;
+	top: 405px;
+	right: 270px;
+}/*edição caixa flutuante segundo*/
+
+.canto{
+	text-align: left;
+	padding-left: 20px;
+	padding-top: 20px;
+	color: #E6C320;
+	font-size: 25px;
+}/*edição do titulo da postagem*/
+
+.data{
+	padding-left: 20px;
+	position: relative;
+	bottom: 23px;
+	font-size: 13px;
+}/*edição da data da postagem*/
+
+.paragrafo{
+	padding-left: 20px;
+	margin-bottom: 5px;
+}/*edição do conteudo da postagem*/
+
+.quadro{
+	background:#6E6E6E;
+	width: 228px;
+	position: relative;
+	left: 10px;
+	top: 8px;
+	padding-top: 1px;
+}/*edição do quadro que contem o titulo das caixas flutuantes*/
+
+.texbox{
+	width: 228px;
+	position: relative;
+	left: 14px;
+	font-size: 13px;
+	display: inline-block;
+}/*edição do conteudo das caixas flutuantes*/
+
+.link{
+	color: yellow;
+	width: 228px;
+	margin-bottom: 18px;
+}/*edição dos links caixas flutuantes*/
+
+
